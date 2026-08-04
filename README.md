@@ -20,3 +20,4 @@ A simple Rock-Paper-Scissors game made using HTML, CSS, and JavaScript.
 - `style.css` → Styles for the game  
 - `js.js` → Game logic  
 
+it is designed with random function 
